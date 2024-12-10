@@ -30,27 +30,20 @@ I'm a dedicated Computer Science Enthusiast with a profound fascination in this 
 ### Connect Me 
 
 <p align="left"> 
-<a href="https://www.github.com/your-github-username" target="_blank" rel="noreferrer"> <!-- Replace with your actual GitHub URL -->
+<a href="https://www.github.com/MEGHNAKORIM" target="_blank" rel="noreferrer"> <!-- Replace with your actual GitHub URL -->
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
 </picture> 
 </a> 
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noreferrer"> <!-- Replace with your actual LinkedIn URL -->
+<a href="https://www.linkedin.com/in/meghana-korimi-0a1b5a258/" target="_blank" rel="noreferrer"> <!-- Replace with your actual LinkedIn URL -->
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
 </picture> 
 </a> 
-<a href="https://www.stackoverflow.com/users/your-stackoverflow-username" target="_blank" rel="noreferrer"> <!-- Replace with your actual Stack Overflow URL -->
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
-</picture> 
-</a>
 </p>
 
 ### Badges
